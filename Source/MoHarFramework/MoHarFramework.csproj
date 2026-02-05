@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <Authors>Dusk21</Authors>
+        <Copyright>Copyright (c) 2025 Dusk21</Copyright>
+        <TargetFramework>net48</TargetFramework>
+        <LangVersion>preview</LangVersion>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <OutDir>..\..\1.6\Assemblies\</OutDir>
+        <PlatformTarget>AnyCPU</PlatformTarget>
+        <Optimize>true</Optimize>
+        <EnableNETAnalyzers>True</EnableNETAnalyzers>
+        <AnalysisLevel>preview-recommended</AnalysisLevel>
+        <DebugSymbols>true</DebugSymbols>
+        <DebugType>portable</DebugType>
+        <ErrorReport>prompt</ErrorReport>
+        <WarningLevel>4</WarningLevel>
+    </PropertyGroup>
+    <ItemGroup>
+        <PackageReference Include="Krafs.Rimworld.Ref" Version="1.6.4633" ExcludeAssets="runtime"/>
+        <PackageReference Include="Lib.Harmony" Version="2.4.2" ExcludeAssets="runtime"/>
+    </ItemGroup>
+</Project>
