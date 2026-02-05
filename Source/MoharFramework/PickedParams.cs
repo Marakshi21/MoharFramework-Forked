@@ -1,6 +1,6 @@
 using Verse;
 
-namespace MoharDamage
+namespace Mohar
 {
     /*
      GenExplosion.DoExplosion(instigator: (instigator == null || instigator.HostileTo(parent.Faction)) ? parent : instigator,

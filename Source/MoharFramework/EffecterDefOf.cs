@@ -1,7 +1,7 @@
 ﻿using RimWorld;
 using Verse;
 
-namespace MoharBlood
+namespace Mohar
 {
     [DefOf]
     public static class MyEffecterDefOf

@@ -2,7 +2,7 @@
 using UnityEngine;
 using RimWorld;
 
-namespace MoharBlood
+namespace Mohar
 {
     public static class Filth_AddSources_Utils
     {

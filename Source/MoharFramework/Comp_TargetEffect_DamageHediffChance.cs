@@ -1,7 +1,7 @@
 using Verse;
 using RimWorld;
 
-namespace MoharComp
+namespace Mohar
 {
     public class CompProperties_TargetEffect_HediffDamageChance : CompProperties
     {

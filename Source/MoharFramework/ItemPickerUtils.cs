@@ -2,7 +2,7 @@ using Verse;
 using AlienRace;
 using UnityEngine;
 
-namespace MoharHediffs
+namespace Mohar
 {
     public static class RandyPickerUtils
     {

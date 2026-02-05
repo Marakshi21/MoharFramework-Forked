@@ -1,7 +1,7 @@
 ﻿using Verse;
 //using AlienRace;
 
-namespace MoHarRegeneration
+namespace Mohar
 {
     public static class RegenBill
     {

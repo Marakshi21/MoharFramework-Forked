@@ -3,7 +3,7 @@ using HarmonyLib;
 using RimWorld;
 using System.Reflection;
 
-namespace YAHA
+namespace Mohar
 {
     [StaticConstructorOnStartup]
     public class WearPatch

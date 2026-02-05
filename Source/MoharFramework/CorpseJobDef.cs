@@ -1,7 +1,7 @@
 ﻿using Verse;
 using RimWorld;
 
-namespace MoharAiJob
+namespace Mohar
 {
     public class CorpseJobDef : Def
     {

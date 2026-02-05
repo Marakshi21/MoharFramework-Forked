@@ -1,6 +1,6 @@
 using Verse;
 
-namespace OLB
+namespace Mohar
 {
 	public class CompProperties_Decorate : CompProperties
 	{

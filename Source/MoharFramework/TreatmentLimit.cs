@@ -1,5 +1,5 @@
 ﻿
-namespace MoHarRegeneration
+namespace Mohar
 {
     public class TreatmentLimit
     {

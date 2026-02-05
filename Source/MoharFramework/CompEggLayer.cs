@@ -4,7 +4,7 @@ using System.Reflection;
 using HarmonyLib;
 
 
-namespace OHFP
+namespace Mohar
 {
     [StaticConstructorOnStartup]
     static class HarmonyPatchAll

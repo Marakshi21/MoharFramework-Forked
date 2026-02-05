@@ -2,7 +2,7 @@
 using Verse;
 using UnityEngine;
 
-namespace MoharBlood
+namespace Mohar
 {
     public class BloodColorDef : Def
     {

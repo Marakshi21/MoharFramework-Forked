@@ -2,7 +2,7 @@
 using UnityEngine;
 using HarmonyLib;
 
-namespace MoharBlood
+namespace Mohar
 {
     public static class Harmony_Utils
     {

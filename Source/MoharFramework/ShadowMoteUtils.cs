@@ -2,7 +2,7 @@
 using UnityEngine;
 
 
-namespace MoharJoy
+namespace Mohar
 {
     public static class ShadowMoteUtils
     {

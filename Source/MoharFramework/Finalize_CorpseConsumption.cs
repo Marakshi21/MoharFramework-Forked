@@ -2,7 +2,7 @@
 using Verse.AI;
 using RimWorld;
 
-namespace MoharAiJob
+namespace Mohar
 {
     public static class Finalize_CorpseConsumption
     {

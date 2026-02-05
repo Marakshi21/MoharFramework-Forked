@@ -1,7 +1,7 @@
 ﻿using Verse;
 using UnityEngine;
 
-namespace MoharGfx
+namespace Mohar
 {
     [StaticConstructorOnStartup]
     public class Graphic_AnimatedMote : Graphic_Collection

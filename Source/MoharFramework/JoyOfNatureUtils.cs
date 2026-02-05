@@ -2,7 +2,7 @@
 using Verse.AI;
 using RimWorld;
 
-namespace MoharJoy
+namespace Mohar
 {
     public static class JoyOfNatureUtils
     {

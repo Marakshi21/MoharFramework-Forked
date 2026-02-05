@@ -1,6 +1,6 @@
 ﻿using Verse;
 
-namespace MoharThoughts
+namespace Mohar
 {
     public static class BodyPartUtils
     {

@@ -1,6 +1,6 @@
 using RimWorld;
 
-namespace MoharHediffs
+namespace Mohar
 {
     public class RandomFactionParameter
     {

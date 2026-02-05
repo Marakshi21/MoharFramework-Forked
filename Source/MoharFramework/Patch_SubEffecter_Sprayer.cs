@@ -4,7 +4,7 @@ using System.Reflection.Emit;
 using HarmonyLib;
 
 
-namespace MoharBlood
+namespace Mohar
 {
     public class Harmony_Sprayer_MakeMote
     {

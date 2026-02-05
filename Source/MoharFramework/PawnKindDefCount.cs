@@ -1,6 +1,6 @@
 ﻿using Verse;
 
-namespace MoharAiJob
+namespace Mohar
 {
     public struct PawnKindDefCount : IEquatable<PawnKindDefCount>, IExposable
     {

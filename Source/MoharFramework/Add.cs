@@ -2,7 +2,7 @@
 using HarmonyLib;
 using System.Reflection;
 
-namespace YAHA
+namespace Mohar
 {
     [StaticConstructorOnStartup]
     public class HediffAddedPatch

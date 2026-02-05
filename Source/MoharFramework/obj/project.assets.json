@@ -717,9 +717,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/Nico/.local/share/Steam/steamapps/common/RimWorld/Mods/MoharFramework-Forked/Source/MoharFramework/MHF.csproj",
-      "projectName": "MHF",
-      "projectPath": "/home/Nico/.local/share/Steam/steamapps/common/RimWorld/Mods/MoharFramework-Forked/Source/MoharFramework/MHF.csproj",
+      "projectUniqueName": "/home/Nico/.local/share/Steam/steamapps/common/RimWorld/Mods/MoharFramework-Forked/Source/MoharFramework/Mohar.csproj",
+      "projectName": "Mohar",
+      "projectPath": "/home/Nico/.local/share/Steam/steamapps/common/RimWorld/Mods/MoharFramework-Forked/Source/MoharFramework/Mohar.csproj",
       "packagesPath": "/home/Nico/.nuget/packages/",
       "outputPath": "/home/Nico/.local/share/Steam/steamapps/common/RimWorld/Mods/MoharFramework-Forked/Source/MoharFramework/obj/",
       "projectStyle": "PackageReference",

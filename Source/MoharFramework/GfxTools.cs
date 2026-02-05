@@ -1,7 +1,7 @@
 ﻿using Verse;
 using UnityEngine;
 
-namespace MoharGfx
+namespace Mohar
 {
     public static class GfxTools
     {

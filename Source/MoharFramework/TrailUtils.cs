@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using Verse;
 
-namespace MoharHediffs
+namespace Mohar
 {
     public static class TrailUtils
     {

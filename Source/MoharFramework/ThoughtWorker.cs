@@ -1,7 +1,7 @@
 ﻿using Verse;
 using RimWorld;
 
-namespace MoharThoughts
+namespace Mohar
 {
     // race body part hediff thought worker
     public class RaceBPHediff : ThoughtWorker

@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using Verse;
 
-namespace MoharGfx
+namespace Mohar
 {
     public class CustomTransformation_Mote : MoteThrown
     {

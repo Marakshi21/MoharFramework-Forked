@@ -1,5 +1,5 @@
 using Verse;
-using Ubet;
+using Mohar.Ubet;
 
 namespace UbetTester
 {

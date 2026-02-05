@@ -1,6 +1,6 @@
 using Verse;
 
-namespace MoharComp
+namespace Mohar
 {
     public class DamageItem
     {

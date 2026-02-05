@@ -2,7 +2,7 @@ using UnityEngine;
 using Verse;
 using RimWorld;
 
-namespace DisplayITab
+namespace Mohar
 {
 	public class ITab_DisplayPicture : ITab
 	{

@@ -2,7 +2,7 @@
 using RimWorld;
 using UnityEngine;
 
-namespace MoharGfx
+namespace Mohar
 {
     public class Graphic_MaskedCluster : Graphic_CutoutRandom
     {

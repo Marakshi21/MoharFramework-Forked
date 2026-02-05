@@ -6,7 +6,7 @@ using HarmonyLib;
 using RimWorld;
 
 
-namespace MoharBlood
+namespace Mohar
 {
     public class Harmony_HealthCardUtility_DrawHediffRow
     {

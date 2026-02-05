@@ -1,5 +1,5 @@
 
-namespace MoharHediffs
+namespace Mohar
 {
     public class ChannelColorCondition
     {

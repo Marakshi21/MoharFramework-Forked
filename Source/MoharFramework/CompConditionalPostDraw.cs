@@ -8,7 +8,7 @@ using Verse.AI;
 
     //Todo
 //post expose data
-namespace ConPoDra
+namespace Mohar
 {
     public class CompConditionalPostDraw : ThingComp
     {

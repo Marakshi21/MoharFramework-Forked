@@ -3,7 +3,7 @@ using Verse;
 using Verse.AI;
 
 // OLB stands for OverLayed Building
-namespace OLB
+namespace Mohar
 {
     public class CompDecorate : ThingComp
     {

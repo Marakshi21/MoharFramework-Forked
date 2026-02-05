@@ -1,7 +1,7 @@
 ﻿using Verse;
 using UnityEngine;
 
-namespace MoharCustomHAR
+namespace Mohar
 {
     public static class BodyTypeDependant
     {

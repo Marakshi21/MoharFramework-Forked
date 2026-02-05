@@ -1,6 +1,6 @@
 ﻿using Verse;
 
-namespace Ubet
+namespace Mohar.Ubet
 {
     [StaticConstructorOnStartup]
     public class ModCompatibilityCheck

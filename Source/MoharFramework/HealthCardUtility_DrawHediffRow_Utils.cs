@@ -2,7 +2,7 @@
 using UnityEngine;
 
 
-namespace MoharBlood
+namespace Mohar
 {
     [StaticConstructorOnStartup]
     public static class HealthCardUtility_DrawHediffRow_Utils

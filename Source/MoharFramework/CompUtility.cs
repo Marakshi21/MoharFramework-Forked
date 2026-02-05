@@ -1,7 +1,7 @@
 ﻿using Verse;
 using RimWorld;
 
-namespace YAHA
+namespace Mohar
 {
     public static class CompUtility
     {

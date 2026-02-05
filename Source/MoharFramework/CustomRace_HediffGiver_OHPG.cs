@@ -1,6 +1,6 @@
 ﻿using Verse;
 
-namespace OHPG
+namespace Mohar
 {
     public class CustomRace_HediffGiver_OHPG : HediffGiver
     {

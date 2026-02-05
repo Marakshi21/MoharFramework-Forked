@@ -1,6 +1,6 @@
 using Verse;
 
-namespace CustomLifeSpan
+namespace Mohar
 {
 	public class CompProperties_Lifespan : CompProperties
 	{

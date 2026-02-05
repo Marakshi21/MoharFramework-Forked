@@ -1,7 +1,7 @@
 ﻿using RimWorld;
 using Verse;
 
-namespace MoHarRegeneration
+namespace Mohar
 {
     public static class RegenWork
     {

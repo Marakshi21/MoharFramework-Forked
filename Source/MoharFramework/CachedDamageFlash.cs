@@ -1,7 +1,7 @@
 ﻿using Verse;
 using UnityEngine;
 
-namespace MoharBlood
+namespace Mohar
 {
     public static class CachedDamageFlash
     {

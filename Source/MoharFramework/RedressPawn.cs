@@ -1,4 +1,4 @@
-namespace MoharHediffs
+namespace Mohar
 {
     public class RedressSettings
     {

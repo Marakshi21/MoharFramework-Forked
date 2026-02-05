@@ -1,6 +1,6 @@
 ﻿using Verse;
 
-namespace Ubet
+namespace Mohar.Ubet
 {
     public static class ToolsPawn
     {

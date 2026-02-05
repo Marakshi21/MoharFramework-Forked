@@ -1,7 +1,7 @@
 ﻿using Verse;
 
 
-namespace MoharJoy
+namespace Mohar
 {
     public static class JobInitialize
     {

@@ -1,7 +1,7 @@
 ﻿using Verse;
 
 
-namespace MoharHediffs
+namespace Mohar
 {
     public class HediffItemToRemove
     {

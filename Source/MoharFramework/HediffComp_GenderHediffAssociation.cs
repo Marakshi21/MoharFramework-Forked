@@ -1,6 +1,6 @@
 ﻿using Verse;
 
-namespace OHPG
+namespace Mohar
 {
     public class HediffComp_GenderHediffAssociation : HediffComp
     {

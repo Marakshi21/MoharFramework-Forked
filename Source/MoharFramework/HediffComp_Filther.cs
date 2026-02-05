@@ -1,7 +1,7 @@
 ﻿using Verse;
 using RimWorld;
 
-namespace MoharHediffs
+namespace Mohar
 {
     public class HediffComp_Filther : HediffComp
     {

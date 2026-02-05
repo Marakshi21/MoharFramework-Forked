@@ -1,7 +1,7 @@
 using Verse;
 using RimWorld;
 
-namespace OHFP
+namespace Mohar
 {
     public class CompProperties_OHFP_Hatcher : CompProperties
     {

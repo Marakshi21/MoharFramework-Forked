@@ -1,7 +1,7 @@
 using Verse;
 using RimWorld;
 
-namespace MoharDamage
+namespace Mohar
 {
     public static class RatioComputer
     {

@@ -1,7 +1,7 @@
 ﻿using System.Reflection;
 using Verse;
 
-namespace Ubet
+namespace Mohar.Ubet
 {
     public static class Tools
     {

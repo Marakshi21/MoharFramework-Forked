@@ -1,9 +1,8 @@
 ﻿using UnityEngine;
-using MoharGfx;
 
 using Verse;
 
-namespace MoharHediffs
+namespace Mohar
 {
     public static class MoteSpawnUtils
     {

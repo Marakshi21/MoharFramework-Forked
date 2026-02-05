@@ -2,7 +2,7 @@ using Verse;
 using Verse.AI;
 using RimWorld;
 
-namespace MoharDamage
+namespace Mohar
 {
     public static class ApplyEffect
     {

@@ -27,4 +27,8 @@
         <HintPath>..\..\..\AlienRaces\Assemblies\AlienRace.dll</HintPath>
       </Reference>
     </ItemGroup>
+    
+    <ItemGroup>
+      <Folder Include="Ubet\" />
+    </ItemGroup>
 </Project>

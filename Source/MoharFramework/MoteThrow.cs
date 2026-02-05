@@ -1,7 +1,7 @@
 using Verse;
 using UnityEngine;
 
-namespace MoharDamage
+namespace Mohar
 {
     public static class MoteThrower
     {

@@ -1,17 +1,12 @@
 ﻿using Verse;
-
 using UnityEngine;
-
-
-using System.Linq;
 using System.Reflection;
-using System.Reflection.Emit;
 using HarmonyLib;
 
 using RimWorld;
 
 
-namespace MoharBlood
+namespace Mohar
 {
     public class HarmonyPatch_Verse_Graphic
     {

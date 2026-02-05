@@ -2,7 +2,7 @@ using RimWorld;
 using Verse;
 using UnityEngine;
 
-namespace MoharJoy
+namespace Mohar
 {
     public class JobDriver_PlayGenericTargetingGame : JobDriver_WatchBuilding
     {

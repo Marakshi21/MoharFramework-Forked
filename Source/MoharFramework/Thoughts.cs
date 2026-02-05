@@ -1,7 +1,7 @@
 ﻿using RimWorld;
 using Verse;
 
-namespace MoharJoy
+namespace Mohar
 {
     public class GameThoughts
     {

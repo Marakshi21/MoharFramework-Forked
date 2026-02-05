@@ -1,5 +1,5 @@
 ﻿
-namespace OLB
+namespace Mohar
 {
     public static class FuelAndPowerConditions
     {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GzFFiLsD92Y=",
+  "dgSpecHash": "AanUNTWzrDY=",
   "success": true,
-  "projectFilePath": "/home/Nico/.local/share/Steam/steamapps/common/RimWorld/Mods/MoharFramework-Forked/Source/MoharFramework/MHF.csproj",
+  "projectFilePath": "/home/Nico/.local/share/Steam/steamapps/common/RimWorld/Mods/MoharFramework-Forked/Source/MoharFramework/Mohar.csproj",
   "expectedPackageFiles": [
     "/home/Nico/.nuget/packages/krafs.rimworld.ref/1.6.4633/krafs.rimworld.ref.1.6.4633.nupkg.sha512",
     "/home/Nico/.nuget/packages/lib.harmony/2.4.2/lib.harmony.2.4.2.nupkg.sha512",

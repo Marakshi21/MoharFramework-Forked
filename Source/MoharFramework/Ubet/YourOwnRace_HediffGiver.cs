@@ -1,7 +1,7 @@
 ﻿using Verse;
 
 
-namespace YORHG
+namespace Mohar.Ubet
 {
     public class YourOwnRace_HediffGiver : HediffGiver
     {

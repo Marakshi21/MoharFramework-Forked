@@ -1,7 +1,7 @@
 ﻿using RimWorld;
 using Verse;
 
-namespace CSSU
+namespace Mohar
 {
     public static class JobDriver_Meditate_Utils
     {

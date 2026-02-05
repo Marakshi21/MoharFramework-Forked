@@ -1,7 +1,7 @@
 ﻿using RimWorld;
 using Verse;
 
-namespace MoharHediffs
+namespace Mohar
 {
 	public class HediffComp_RandySpawnUponDeath : HediffComp
 	{

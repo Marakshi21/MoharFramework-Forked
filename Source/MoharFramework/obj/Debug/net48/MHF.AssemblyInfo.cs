@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dusk21")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7787d6a6f2f4dc9baa7dc271f5dc2667ee36e97")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b8c5911a4a3e83533146f9e8fb77c7b428b5b3b")]
 [assembly: System.Reflection.AssemblyProductAttribute("MHF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MHF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

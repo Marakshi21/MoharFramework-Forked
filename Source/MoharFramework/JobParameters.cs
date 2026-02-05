@@ -1,7 +1,7 @@
 ﻿using Verse;
 using RimWorld;
 
-namespace MoharCustomHAR
+namespace Mohar
 {
     public class JobParameters
     {

@@ -1,6 +1,6 @@
 ﻿using Verse;
 
-namespace HEREHEGI
+namespace Mohar
 {
     public class HediffComp_DataHediff : HediffComp
     {

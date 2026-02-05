@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using Verse;
 
-namespace MoharHediffs
+namespace Mohar
 {
     //MoteMaker.MakeWaterSplash(vector, pawn.Map, Mathf.Sqrt(pawn.BodySize) * 2f, 1.5f);
 

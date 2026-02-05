@@ -4,7 +4,7 @@ using UnityEngine;
 using Verse;
 using HarmonyLib;
 
-namespace MoharBlood
+namespace Mohar
 {
     public class Harmony_DamageFlash
     {

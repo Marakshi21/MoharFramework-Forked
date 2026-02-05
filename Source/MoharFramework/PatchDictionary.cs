@@ -1,6 +1,6 @@
 ﻿using HarmonyLib;
 
-namespace YAHA
+namespace Mohar
 {
     public static class PatchDictionary
     {

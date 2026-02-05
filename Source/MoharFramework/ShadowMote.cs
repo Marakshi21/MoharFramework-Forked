@@ -3,7 +3,7 @@ using Verse.Sound;
 using Verse;
 using RimWorld;
 
-namespace MoharJoy
+namespace Mohar
 {
     public class ShadowMote : MoteThrown
     {

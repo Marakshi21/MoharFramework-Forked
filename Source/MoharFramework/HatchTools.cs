@@ -2,7 +2,7 @@
 using Verse;
 using RimWorld;
 
-namespace OHFP
+namespace Mohar
 {
     public static class HatchTools
     {

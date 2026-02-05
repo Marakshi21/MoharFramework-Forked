@@ -2,7 +2,7 @@
 using UnityEngine;
 using Verse;
 
-namespace MoharHediffs
+namespace Mohar
 {
     public class HediffComp_FootPrinter : HediffComp
     {

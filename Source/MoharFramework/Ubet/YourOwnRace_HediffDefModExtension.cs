@@ -1,6 +1,6 @@
 using Verse;
 
-namespace YORHG
+namespace Mohar.Ubet
 {
     public class HediffDefModExtension : DefModExtension
     {

@@ -1,6 +1,6 @@
 using Verse;
 
-namespace FuPoSpa
+namespace Mohar
 {
     public class CompProperties_FuelPoweredSpawner : CompProperties
     {

@@ -2,7 +2,7 @@ using Verse;
 using RimWorld;
 using UnityEngine;
 
-namespace MoharDamage
+namespace Mohar
 {
     public class DamageWorker_ExplosionOnImpact : DamageWorker_Blunt
     {

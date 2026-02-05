@@ -2,7 +2,7 @@ using Verse;
 using AlienRace;
 using UnityEngine;
 
-namespace MoharCustomHAR
+namespace Mohar
 {
     
     using BAP = AlienPartGenerator.ExtendedGraphicsPrioritization;

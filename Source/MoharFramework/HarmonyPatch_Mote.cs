@@ -2,7 +2,7 @@
 using System.Reflection;
 using HarmonyLib;
 
-namespace MoharGfx
+namespace Mohar
 {
     [StaticConstructorOnStartup]
     static class HarmonyPatchAll

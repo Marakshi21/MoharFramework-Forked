@@ -2,7 +2,7 @@
 using Verse;
 
 
-namespace YORHG
+namespace Mohar.Ubet
 {
     public static class ToolsBodyPart
     {

@@ -8,7 +8,7 @@ using Verse;
  * Browse title
  */
 
-namespace ConPoDra
+namespace Mohar
 {
 	public class CompProperties_ConditionalPostDraw : CompProperties
 	{

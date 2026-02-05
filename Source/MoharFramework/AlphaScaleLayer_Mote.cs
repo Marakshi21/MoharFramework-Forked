@@ -2,7 +2,7 @@
 using Verse;
 
 
-namespace MoharGfx
+namespace Mohar
 {
     public class AlphaScaleLayer_Mote : MoteThrown
     {

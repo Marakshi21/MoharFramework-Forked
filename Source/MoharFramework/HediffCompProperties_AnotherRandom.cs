@@ -1,6 +1,6 @@
 ﻿using Verse;
 
-namespace MoharHediffs
+namespace Mohar
 {
 	public class HediffCompProperties_AnotherRandom : HediffCompProperties
 	{

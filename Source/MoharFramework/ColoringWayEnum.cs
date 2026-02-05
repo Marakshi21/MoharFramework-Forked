@@ -1,7 +1,7 @@
 ﻿using Verse;
 
 
-namespace MoharBlood
+namespace Mohar
 {
     public enum ColoringWay
     {

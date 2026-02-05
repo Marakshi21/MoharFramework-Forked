@@ -1,6 +1,6 @@
 using Verse;
 
-namespace DUDOD
+namespace Mohar
 {
     public class HediffCompProperties_DestroyUponDeathOrDowned : HediffCompProperties
     {

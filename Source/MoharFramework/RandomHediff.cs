@@ -1,6 +1,6 @@
 ﻿using Verse;
 
-namespace YAHA
+namespace Mohar
 {
     public static class HediffPicker
     {

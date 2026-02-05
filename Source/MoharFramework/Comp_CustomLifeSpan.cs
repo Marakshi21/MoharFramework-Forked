@@ -2,7 +2,7 @@ using UnityEngine;
 using RimWorld;
 using Verse;
 
-namespace CustomLifeSpan
+namespace Mohar
 {
 	public class CompLifespan : ThingComp
 	{

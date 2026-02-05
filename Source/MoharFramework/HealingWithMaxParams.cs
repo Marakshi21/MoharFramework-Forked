@@ -1,7 +1,7 @@
 ﻿using Verse;
 
 
-namespace MoHarRegeneration
+namespace Mohar
 {
     public class HealingWithMaxParams : HealingParams
     {

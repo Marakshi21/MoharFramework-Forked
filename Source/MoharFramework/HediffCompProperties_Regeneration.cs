@@ -1,6 +1,6 @@
 using Verse;
 
-namespace MoHarRegeneration
+namespace Mohar
 {
     public class HediffCompProperties_Regeneration : HediffCompProperties
     {

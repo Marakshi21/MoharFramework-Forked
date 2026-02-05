@@ -1,4 +1,4 @@
-﻿namespace ConPoDra
+﻿namespace Mohar
 
 {
     public static class DisplayedUtils

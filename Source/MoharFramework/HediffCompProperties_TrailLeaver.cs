@@ -2,7 +2,7 @@ using RimWorld;
 using Verse;
 using UnityEngine;
 
-namespace MoharHediffs
+namespace Mohar
 {
     public class HediffCompProperties_TrailLeaver : HediffCompProperties
     {

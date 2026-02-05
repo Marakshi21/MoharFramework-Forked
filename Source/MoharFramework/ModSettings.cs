@@ -2,7 +2,7 @@
 using UnityEngine;
 
 
-namespace OHPLS
+namespace Mohar
 {
     public class OHPLS_Settings : ModSettings
     {

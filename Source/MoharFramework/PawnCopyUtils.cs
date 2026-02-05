@@ -3,7 +3,7 @@ using RimWorld;
 using AlienRace;
 using UnityEngine;
 
-namespace MoharHediffs
+namespace Mohar
 {
     public static class PawnCopyUtils
     {

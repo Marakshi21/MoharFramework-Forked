@@ -2,7 +2,7 @@
 using Verse.AI;
 using RimWorld;
 
-namespace MoharAiJob
+namespace Mohar
 {
     public class AiCorpse_Consume_JobDriver : JobDriver
     {

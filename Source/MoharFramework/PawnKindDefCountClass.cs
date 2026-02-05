@@ -1,7 +1,7 @@
 ﻿using System.Xml;
 using Verse;
 
-namespace MoharAiJob
+namespace Mohar
 {
     public sealed class PawnKindDefCountClass : IExposable
     {

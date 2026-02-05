@@ -2,7 +2,7 @@
 using UnityEngine;
 using RimWorld;
 
-namespace OLB
+namespace Mohar
 {
     public static class DisplayOrigin
     {

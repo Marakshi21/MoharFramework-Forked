@@ -1,7 +1,7 @@
 ﻿using Verse;
 using System.Reflection;
 
-namespace MoharBlood
+namespace Mohar
 {
     public static class ToolsPawn
     {

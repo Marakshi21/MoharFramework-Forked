@@ -2,7 +2,7 @@
 
 using UnityEngine;
 
-namespace DUDOD
+namespace Mohar
 {
     [StaticConstructorOnStartup]
     public class MyGfx

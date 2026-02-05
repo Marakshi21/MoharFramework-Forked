@@ -3,7 +3,7 @@ using UnityEngine;
 using Verse;
 using RimWorld;
 
-namespace OHFP
+namespace Mohar
 {
     //Todo
     // hatcheeFaction and hatcherPawn could be set when spawning :/

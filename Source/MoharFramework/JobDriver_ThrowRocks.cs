@@ -2,7 +2,7 @@ using RimWorld;
 using Verse;
 using Verse.AI;
 
-namespace MoharJoy
+namespace Mohar
 {
     public class JobDriver_ThrowRocks : JobDriver
     {

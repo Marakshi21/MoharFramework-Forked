@@ -1,7 +1,7 @@
 ﻿using Verse;
 using CheckModActive;
 
-namespace DefGen
+namespace Mohar
 {
     [StaticConstructorOnStartup]
     public static class StaticCheck

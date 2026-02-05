@@ -1,7 +1,7 @@
 ﻿using Verse;
 using HarmonyLib;
 
-namespace MoharBlood
+namespace Mohar
 {
 
 

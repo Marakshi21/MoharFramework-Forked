@@ -1,6 +1,6 @@
 using Verse;
 
-namespace OHPLS
+namespace Mohar
 {
     public class HediffCompProperties_LifeStageHediffAssociation : HediffCompProperties
     {

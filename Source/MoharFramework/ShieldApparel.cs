@@ -3,7 +3,7 @@ using Verse;
 using Verse.Sound;
 using RimWorld;
 
-namespace ShieldApparel
+namespace Mohar
 {
 	[StaticConstructorOnStartup]
 	public class ShieldApparel : Apparel

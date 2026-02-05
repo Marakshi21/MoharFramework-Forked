@@ -1,7 +1,7 @@
 ﻿using Verse;
-using Ubet;
+using Mohar.Ubet;
 
-namespace YAHA
+namespace Mohar
 {
     public static class CompCheckUtility
     {

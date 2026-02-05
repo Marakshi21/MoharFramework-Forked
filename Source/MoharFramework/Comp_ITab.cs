@@ -1,6 +1,6 @@
 using Verse;
 
-namespace DisplayITab
+namespace Mohar
 {
     public class Comp_ITab : ThingComp
     {

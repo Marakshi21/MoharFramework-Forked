@@ -1,7 +1,7 @@
 ﻿using Verse;
 using RimWorld;
 
-namespace OHPLS
+namespace Mohar
 {
     public class Association
     {

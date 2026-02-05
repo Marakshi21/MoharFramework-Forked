@@ -1,6 +1,6 @@
 using Verse;
 
-namespace MoharDamage
+namespace Mohar
 {
     public static class WeightedRandomOptionPicker
     {

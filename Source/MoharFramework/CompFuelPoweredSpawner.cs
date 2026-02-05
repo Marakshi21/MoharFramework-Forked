@@ -1,7 +1,7 @@
 using Verse;
 using RimWorld;
 
-namespace FuPoSpa
+namespace Mohar
 {
     public class CompFuelPoweredSpawner : ThingComp
     {

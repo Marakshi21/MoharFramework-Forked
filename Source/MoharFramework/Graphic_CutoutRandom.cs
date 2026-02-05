@@ -1,7 +1,7 @@
 using UnityEngine;
 using Verse;
 
-namespace MoharGfx
+namespace Mohar
 {
     public class Graphic_CutoutRandom : Graphic_CutoutCollection
     {

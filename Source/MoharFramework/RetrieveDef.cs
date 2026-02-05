@@ -1,7 +1,7 @@
 ﻿using Verse;
 using AlienRace;
 
-namespace DefGen
+namespace Mohar
 {
     [StaticConstructorOnStartup]
     public static class AddApparelRestrictionToAlienDef

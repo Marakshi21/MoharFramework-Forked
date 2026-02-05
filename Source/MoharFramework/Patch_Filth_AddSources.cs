@@ -4,7 +4,7 @@ using HarmonyLib;
 using RimWorld;
 
 
-namespace MoharBlood
+namespace Mohar
 {
     public class Harmony_Patch_Filth_AddSources
     {

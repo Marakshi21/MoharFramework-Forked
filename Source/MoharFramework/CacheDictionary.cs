@@ -1,6 +1,6 @@
 ﻿using Verse;
 
-namespace MoharBlood
+namespace Mohar
 {
     public static class StaticCollections
     {

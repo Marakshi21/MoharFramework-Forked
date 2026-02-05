@@ -2,7 +2,7 @@ using UnityEngine;
 using Verse;
 using RimWorld;
 
-namespace ShieldApparel
+namespace Mohar
 {
 	[StaticConstructorOnStartup]
 	//public class MyGizmo_EnergyShieldStatus : Gizmo

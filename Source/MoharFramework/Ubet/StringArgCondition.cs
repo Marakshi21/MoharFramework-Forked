@@ -1,7 +1,7 @@
 ﻿using Verse;
 using RimWorld;
 
-namespace Ubet
+namespace Mohar.Ubet
 {
     public static class StringArgConditionMethods
     {

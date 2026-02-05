@@ -1,7 +1,7 @@
 ﻿using Verse;
 using UnityEngine;
 
-namespace MoharBlood
+namespace Mohar
 {
     /*
     				<!-- blood red; 255, 87, 51 ; 1, .3 ,.2 -->

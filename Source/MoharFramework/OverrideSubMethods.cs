@@ -2,7 +2,7 @@
 using AlienRace;
 using UnityEngine;
 
-namespace MoharCustomHAR
+namespace Mohar
 {
     
     //using BAP = AlienPartGenerator.BodyAddonPrioritization;

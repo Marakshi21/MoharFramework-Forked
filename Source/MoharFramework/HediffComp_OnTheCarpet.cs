@@ -1,6 +1,6 @@
 ﻿using Verse;
 
-namespace MoharHediffs
+namespace Mohar
 {
     public class HediffComp_OnTheCarpet : HediffComp
     {

@@ -3,7 +3,7 @@ using Verse.AI;
 using UnityEngine;
 using RimWorld;
 
-namespace MoharAiJob
+namespace Mohar
 {
     public class Ai_GraveDig_JobDriver : JobDriver
     {

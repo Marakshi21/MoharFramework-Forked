@@ -2,7 +2,7 @@
 using Verse.AI;
 
 
-namespace MoharAiJob
+namespace Mohar
 {
     public class GraveDiggerDef : Def
     {

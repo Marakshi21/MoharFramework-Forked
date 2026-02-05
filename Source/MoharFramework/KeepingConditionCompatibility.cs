@@ -2,7 +2,7 @@
 using Verse;
 
 
-namespace MoharHediffs
+namespace Mohar
 {
     public static class KeepingConditionCompatibility
     {

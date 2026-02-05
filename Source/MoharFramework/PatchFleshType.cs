@@ -4,7 +4,7 @@ using System.Reflection;
 using UnityEngine;
 using HarmonyLib;
 
-namespace MoharBlood
+namespace Mohar
 {
     public class Harmony_FleshTypeDef
     {

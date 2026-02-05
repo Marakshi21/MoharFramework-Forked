@@ -4,7 +4,7 @@ using System.Reflection.Emit;
 using HarmonyLib;
 
 
-namespace CSSU
+namespace Mohar
 {
     public class Harmony_jobDriver_Meditate
     {

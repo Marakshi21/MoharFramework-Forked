@@ -1,7 +1,7 @@
 ﻿using Verse;
 using RimWorld;
 
-namespace MoharThoughts
+namespace Mohar
 {
     public class MTWDef : Def
     {

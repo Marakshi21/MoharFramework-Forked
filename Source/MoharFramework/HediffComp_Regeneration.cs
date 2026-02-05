@@ -1,7 +1,7 @@
 ﻿using Verse;
 using RimWorld;
 
-namespace MoHarRegeneration
+namespace Mohar
 {
     public class HediffComp_Regeneration : HediffComp
     {

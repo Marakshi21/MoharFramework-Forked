@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MHF", "MHF.csproj", "{1CBB088A-15C2-461D-9467-D15886E14982}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mohar", "Mohar.csproj", "{1CBB088A-15C2-461D-9467-D15886E14982}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

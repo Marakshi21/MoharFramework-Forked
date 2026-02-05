@@ -2,7 +2,7 @@
 using RimWorld;
 
 
-namespace MoharCustomHAR
+namespace Mohar
 {
     public static class BaseHARConditions
     {

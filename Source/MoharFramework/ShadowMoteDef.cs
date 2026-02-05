@@ -1,6 +1,6 @@
 ﻿using Verse;
 
-namespace MoharJoy
+namespace Mohar
 {
     //[StaticConstructorOnStartup]
 

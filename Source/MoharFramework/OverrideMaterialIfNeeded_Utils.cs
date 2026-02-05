@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 
 
-namespace MoharBlood
+namespace Mohar
 {
     //[StaticConstructorOnStartup]
     public static class OverrideMaterialIfNeeded_Utils
