@@ -1,24 +1,22 @@
-﻿using Verse;
+﻿using System.Reflection;
+using Verse;
 
-namespace YORHG
+namespace Ubet
 {
     public static class Tools
     {
-        public static bool CheckPawn(Pawn pawn)
+        
+        public static string DescriptionAttr<T>(this T source)
         {
-            //return (pawn != null && pawn.Map != null && pawn.Position != null);
-            return (pawn != null && pawn.Map != null);
-        }
-        public static void Warn(string warning, bool debug = false)
-        {
-            if(debug)
-                Log.Warning(warning);
-        }
+            FieldInfo fi = source.GetType().GetField(source.ToString());
 
-        public static bool IsRaceMember(this Pawn pawn, string raceName)
-        {
-            return (pawn.def.defName == raceName);
-        }
+            DescriptionAttribute[] attributes = (DescriptionAttribute[])fi.GetCustomAttributes(
+                typeof(DescriptionAttribute), false);
 
+            if (attributes != null && attributes.Length > 0)
+                return attributes[0].description;
+            else
+                return source.ToString();
+        }
     }
 }

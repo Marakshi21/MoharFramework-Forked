@@ -1,22 +1,21 @@
 ﻿using RimWorld;
-using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
-using System.Text;
-
-using UnityEngine;
 using Verse;
+using System.Collections.Generic;
+using System.Linq;
 
-
-namespace LTF_Slug
+namespace Ubet
 {
-    public class ToolsPawn
+    public static class ToolsPawn
     {
-        public static BodyPartRecord GetBrain(Pawn pawn)
+
+        public static string PawnResumeString(this Pawn pawn)
         {
-            pawn.RaceProps.body.GetPartsWithTag(BodyPartTagDefOf.ConsciousnessSource).TryRandomElement(out BodyPartRecord bodyPart);
-            return bodyPart;
+            return (pawn?.LabelShort.CapitalizeFirst() +
+                    ", " +
+                    (int)pawn?.ageTracker?.AgeBiologicalYears + " y/o" +
+                    " " + pawn?.gender.ToString() +
+                    ", " + "curLifeStage: " + pawn?.ageTracker.CurLifeStageRace.minAge + "=>" + pawn?.ageTracker.CurLifeStageRace.def.ToString()
+                    );
         }
     }
 }
