@@ -17,8 +17,10 @@
         <ErrorReport>prompt</ErrorReport>
         <WarningLevel>4</WarningLevel>
     </PropertyGroup>
+    
     <ItemGroup>
         <PackageReference Include="Krafs.Rimworld.Ref" Version="1.6.4633" ExcludeAssets="runtime"/>
         <PackageReference Include="Lib.Harmony" Version="2.4.2" ExcludeAssets="runtime"/>
     </ItemGroup>
+    
 </Project>

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyCopyrightAttribute("Copyright (c) 2025 Dusk21")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a773b06b61868edb88220c52d32b730168925af")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba475b41751ff92d2b871fc520480114bd2207ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("MoHarFramework")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MoHarFramework")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
