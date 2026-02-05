@@ -2,7 +2,6 @@
 <Project Sdk="Microsoft.NET.Sdk">
     <PropertyGroup>
         <Authors>Dusk21</Authors>
-        <Copyright>Copyright (c) 2025 Dusk21</Copyright>
         <TargetFramework>net48</TargetFramework>
         <LangVersion>preview</LangVersion>
         <ImplicitUsings>enable</ImplicitUsings>
@@ -23,4 +22,9 @@
         <PackageReference Include="Lib.Harmony" Version="2.4.2" ExcludeAssets="runtime"/>
     </ItemGroup>
     
+    <ItemGroup>
+      <Reference Include="AlienRace">
+        <HintPath>..\..\..\AlienRaces\Assemblies\AlienRace.dll</HintPath>
+      </Reference>
+    </ItemGroup>
 </Project>
