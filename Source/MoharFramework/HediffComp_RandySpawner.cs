@@ -1,8 +1,5 @@
 ﻿using RimWorld;
-using System;
-using System.Collections.Generic;
 using Verse;
-using System.Linq;
 
 namespace MoharHediffs
 {

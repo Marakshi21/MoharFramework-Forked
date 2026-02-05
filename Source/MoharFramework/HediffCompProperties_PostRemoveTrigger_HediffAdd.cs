@@ -1,14 +1,4 @@
-﻿/*
- * Created by SharpDevelop.
- * User: Etienne
- * Date: 22/11/2017
- * Time: 16:43
- * 
- * To change this template use Tools | Options | Coding | Edit Standard Headers.
- */
-
-using System.Collections.Generic;
-using Verse;
+﻿using Verse;
 
 namespace MoharHediffs
 {

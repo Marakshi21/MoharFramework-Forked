@@ -1,8 +1,4 @@
 ﻿using Verse;
-using UnityEngine;
-using System.Linq;
-using System.Collections.Generic;
-using System;
 using AlienRace;
 
 namespace DefGen

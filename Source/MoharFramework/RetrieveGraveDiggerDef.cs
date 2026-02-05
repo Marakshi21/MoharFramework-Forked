@@ -1,6 +1,4 @@
 ﻿using Verse;
-using UnityEngine;
-using System.Linq;
 
 namespace MoharAiJob
 {

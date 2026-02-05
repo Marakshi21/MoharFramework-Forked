@@ -1,7 +1,4 @@
 ﻿using Verse;
-using System;
-using RimWorld;
-using System.Collections.Generic;
 using AlienRace;
 
 namespace DefGen

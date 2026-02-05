@@ -1,20 +1,5 @@
-﻿//using RimWorld;
-using System.Collections.Generic;
-using Verse;
-using System;
-//using System.Collections.Generic;
-
+﻿using Verse;
 using UnityEngine;
-using System.Linq;
-using System.Reflection;
-using System.Reflection.Emit;
-using HarmonyLib;
-
-/*
-using RimWorld;
-
-using Verse;
-*/
 
 
 namespace MoharBlood

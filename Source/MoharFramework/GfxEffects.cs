@@ -1,6 +1,4 @@
-﻿using System;
-
-using AlienRace;
+﻿using AlienRace;
 using UnityEngine;
 using Verse;
 

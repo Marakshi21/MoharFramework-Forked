@@ -1,4 +1,5 @@
 ﻿namespace ConPoDra
+
 {
     public static class DisplayedUtils
     {

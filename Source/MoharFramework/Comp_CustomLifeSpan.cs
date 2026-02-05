@@ -1,9 +1,6 @@
-using System;
 using UnityEngine;
 using RimWorld;
 using Verse;
-using System.Collections.Generic;
-using System.Linq;
 
 namespace CustomLifeSpan
 {

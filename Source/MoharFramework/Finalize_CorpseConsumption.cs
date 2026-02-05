@@ -1,9 +1,6 @@
 ﻿using Verse;
-using System;
 using Verse.AI;
 using RimWorld;
-using System.Linq;
-using System.Collections.Generic;
 
 namespace MoharAiJob
 {

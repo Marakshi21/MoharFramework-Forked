@@ -1,7 +1,5 @@
 ﻿using Verse;
 using HarmonyLib;
-using System.Collections.Generic;
-using System;
 
 namespace YAHA
 {

@@ -1,6 +1,5 @@
 ﻿using Verse;
 
-
 namespace YAHA
 {
     public enum TriggerEvent
