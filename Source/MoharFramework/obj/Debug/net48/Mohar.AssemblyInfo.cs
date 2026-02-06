@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dusk21")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3af607555fc222531583c1991ba0a560e264f93")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ff356530bb5b80076c645966f157abd141034c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mohar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mohar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

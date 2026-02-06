@@ -1,8 +1,8 @@
 ﻿using Verse;
 using HarmonyLib;
 
-namespace Mohar.Core
-{
+namespace Mohar.Core; 
+
     [StaticConstructorOnStartup]
     static class HarmonyPatchAll
     {
@@ -69,4 +69,3 @@ namespace Mohar.Core
             return PatchReport;
         }
     }
-}
