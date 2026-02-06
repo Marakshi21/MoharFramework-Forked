@@ -1,6 +1,6 @@
 using Verse;
 
-namespace Mohar
+namespace Mohar.Core
 {
     public class GeneralSettings
     {

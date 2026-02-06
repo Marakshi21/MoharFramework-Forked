@@ -1,7 +1,7 @@
 ﻿using Verse;
 using Verse.AI;
 
-namespace Mohar
+namespace Mohar.AI
 {
     public class Ai_GraveDigger_JobGiver : ThinkNode_JobGiver
     {

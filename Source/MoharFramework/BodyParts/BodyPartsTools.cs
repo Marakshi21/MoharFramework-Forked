@@ -1,7 +1,8 @@
 ﻿using RimWorld;
 using Verse;
+using Mohar.Ubet;
 
-namespace Mohar
+namespace Mohar.BodyParts
 {
     public static class BodyPartsTools
     {

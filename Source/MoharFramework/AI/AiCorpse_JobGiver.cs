@@ -2,7 +2,7 @@
 using Verse.AI;
 
 
-namespace Mohar
+namespace Mohar.AI
 {
     public class AiCorpse_JobGiver : ThinkNode_JobGiver
     {

@@ -1,7 +1,7 @@
 ﻿using Verse;
 using HarmonyLib;
 
-namespace Mohar
+namespace Mohar.Core
 {
     [StaticConstructorOnStartup]
     static class HarmonyPatchAll

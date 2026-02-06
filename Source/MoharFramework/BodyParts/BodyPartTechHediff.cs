@@ -1,7 +1,7 @@
 ﻿using RimWorld;
 using Verse;
 
-namespace Mohar
+namespace Mohar.BodyParts
 {
     public static class BodyPartTechHediff
     {
