@@ -1,7 +1,6 @@
 ﻿using Verse;
 
-namespace Mohar.Ubet
-{
+namespace Mohar.Ubet;
     public class HediffCompProperties_UbetTester : HediffComp
     {
         public HediffCompProperties_UbetTesterProperties Props => (HediffCompProperties_UbetTesterProperties)props;
@@ -46,4 +45,3 @@ namespace Mohar.Ubet
             }
         }
     }
-}

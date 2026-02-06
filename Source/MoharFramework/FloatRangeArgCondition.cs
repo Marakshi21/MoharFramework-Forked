@@ -1,7 +1,6 @@
 ﻿using Verse;
 
-namespace Mohar.Ubet
-{
+namespace Mohar.Ubet;
     public static class FloatRangeArgConditionMethods
     {
 
@@ -12,4 +11,3 @@ namespace Mohar.Ubet
         }
 
     }
-}

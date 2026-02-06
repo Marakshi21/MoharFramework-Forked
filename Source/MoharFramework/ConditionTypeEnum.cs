@@ -1,7 +1,6 @@
 ﻿using Verse;
 
-namespace Mohar.Ubet
-{
+namespace Mohar.Ubet;
     public enum ConditionType
     {
         isNegligible,
@@ -128,4 +127,3 @@ namespace Mohar.Ubet
         [Description("empty condition")]
         empty
     }
-}

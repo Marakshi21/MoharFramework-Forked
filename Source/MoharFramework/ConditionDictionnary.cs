@@ -1,7 +1,6 @@
 ﻿using Verse;
 
-namespace Mohar.Ubet
-{
+namespace Mohar.Ubet;
     public static class ConditionDictionnary
     {
         // noArgconditions
@@ -94,5 +93,3 @@ namespace Mohar.Ubet
             { ConditionType.isWithinTwelfthRange, new Func<Pawn, List<IntRange>, bool> (IntRangeArgConditionMethods.TwelfthWithin)  },
         };
     }
- 
-}

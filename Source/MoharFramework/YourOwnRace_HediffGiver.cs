@@ -1,8 +1,7 @@
 ﻿using Verse;
 
+namespace Mohar.Ubet;
 
-namespace Mohar.Ubet
-{
     public class YourOwnRace_HediffGiver : HediffGiver
     {
         private readonly string ErrStr = "YourOwnRace_HediffGiver denied bc ";
@@ -154,4 +153,3 @@ namespace Mohar.Ubet
         }
         
     }
-}

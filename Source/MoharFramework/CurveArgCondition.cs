@@ -1,7 +1,6 @@
 ﻿using Verse;
 
-namespace Mohar.Ubet
-{
+namespace Mohar.Ubet;
     public static class CurveArgConditionMethods
     {
 
@@ -17,4 +16,3 @@ namespace Mohar.Ubet
         }
 
     }
-}
