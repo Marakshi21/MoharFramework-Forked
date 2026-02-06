@@ -1,8 +1,9 @@
 ﻿using Verse;
 using HarmonyLib;
+// Resharper disable all
 
-namespace Mohar.Core; 
-
+namespace Mohar; 
+/*
     [StaticConstructorOnStartup]
     static class HarmonyPatchAll
     {
@@ -69,3 +70,4 @@ namespace Mohar.Core;
             return PatchReport;
         }
     }
+*/

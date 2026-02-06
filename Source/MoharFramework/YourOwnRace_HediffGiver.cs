@@ -1,6 +1,8 @@
 ﻿using Verse;
+using AlienRace;
+// Resharper disable all
 
-namespace Mohar.Ubet;
+namespace Mohar;
 
     public class YourOwnRace_HediffGiver : HediffGiver
     {

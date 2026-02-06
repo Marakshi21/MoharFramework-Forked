@@ -1,4 +1,7 @@
+// Resharper disable all
+
 namespace Mohar
+
 {
     public class RedressSettings
     {

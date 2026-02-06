@@ -1,7 +1,8 @@
 ﻿using System.Reflection;
 using Verse;
+// Resharper disable all
 
-namespace Mohar.Ubet
+namespace Mohar
 {
     public static class Tools
     {

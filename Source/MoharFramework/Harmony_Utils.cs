@@ -1,6 +1,7 @@
 ﻿using Verse;
 using UnityEngine;
 using HarmonyLib;
+// Resharper disable all
 
 namespace Mohar
 {

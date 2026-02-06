@@ -1,6 +1,7 @@
 ﻿using Verse;
+// Resharper disable all
 
-namespace Mohar.Ubet
+namespace Mohar
 {
     public enum Operand
     {

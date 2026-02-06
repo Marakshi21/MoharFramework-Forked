@@ -1,8 +1,9 @@
 ﻿using Verse;
 using HarmonyLib;
 using System.Reflection;
+// Resharper disable all
 
-namespace Mohar.Core
+namespace Mohar
 {
     [StaticConstructorOnStartup]
     public class HediffAddedPatch

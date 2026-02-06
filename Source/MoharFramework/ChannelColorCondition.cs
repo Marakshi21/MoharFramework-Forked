@@ -1,3 +1,4 @@
+// Resharper disable all
 
 namespace Mohar
 {

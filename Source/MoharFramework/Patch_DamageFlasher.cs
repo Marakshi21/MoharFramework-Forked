@@ -3,6 +3,7 @@ using System.Reflection.Emit;
 using UnityEngine;
 using Verse;
 using HarmonyLib;
+// Resharper disable all
 
 namespace Mohar
 {

@@ -1,5 +1,6 @@
 ﻿using Verse;
 using AlienRace;
+// Resharper disable all
 
 namespace Mohar
 {

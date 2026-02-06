@@ -1,8 +1,8 @@
 using RimWorld;
 using Verse;
 using Verse.AI;
+// Resharper disable all
 
-// OLB stands for OverLayed Building
 namespace Mohar
 {
     public class CompDecorate : ThingComp

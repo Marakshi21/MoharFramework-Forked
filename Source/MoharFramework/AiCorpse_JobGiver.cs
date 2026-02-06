@@ -1,8 +1,9 @@
 ﻿using Verse;
 using Verse.AI;
+// Resharper disable all
 
 
-namespace Mohar.AI
+namespace Mohar
 {
     public class AiCorpse_JobGiver : ThinkNode_JobGiver
     {

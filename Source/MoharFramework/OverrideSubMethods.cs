@@ -1,6 +1,7 @@
 ﻿using Verse;
 using AlienRace;
 using UnityEngine;
+// Resharper disable all
 
 namespace Mohar
 {

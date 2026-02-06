@@ -1,7 +1,7 @@
 using Verse;
+// Resharper disable all
 
-namespace Mohar.Core
-{
+namespace Mohar;
     public class GeneralSettings
     {
         //Item - thing/pawnKind
@@ -22,4 +22,3 @@ namespace Mohar.Core
         }
         
     }
-}

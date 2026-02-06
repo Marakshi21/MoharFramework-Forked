@@ -1,4 +1,5 @@
 ﻿namespace Mohar
+// Resharper disable all
 
 {
     public static class DisplayedUtils

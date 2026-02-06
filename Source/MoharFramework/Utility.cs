@@ -1,7 +1,7 @@
 ﻿using Verse;
+// Resharper disable all
 
-namespace Mohar
-{
+namespace Mohar;
     public static class YahaUtility
     {
         public static void CheckTriggeredAssociations(IEnumerable<Hediff> YahaHediffs, TriggerEvent triggerEvent)
@@ -45,4 +45,3 @@ namespace Mohar
         }
 
     }
-}

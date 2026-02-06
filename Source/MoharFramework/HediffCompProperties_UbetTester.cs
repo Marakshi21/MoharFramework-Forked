@@ -1,6 +1,7 @@
 ﻿using Verse;
+// Resharper disable all
 
-namespace Mohar.Ubet;
+namespace Mohar;
     public class HediffCompProperties_UbetTester : HediffComp
     {
         public HediffCompProperties_UbetTesterProperties Props => (HediffCompProperties_UbetTesterProperties)props;

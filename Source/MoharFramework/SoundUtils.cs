@@ -1,5 +1,6 @@
 ﻿using Verse;
 using Verse.Sound;
+// Resharper disable all
 
 namespace Mohar
 {

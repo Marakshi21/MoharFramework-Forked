@@ -1,7 +1,8 @@
 ﻿using Verse;
 using RimWorld;
+// Resharper disable all
 
-namespace Mohar.Ubet
+namespace Mohar
 {
     public static class NoArgConditionMethods
     {

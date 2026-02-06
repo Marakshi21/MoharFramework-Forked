@@ -2,6 +2,7 @@ using Verse;
 using RimWorld;
 using AlienRace;
 using UnityEngine;
+// Resharper disable all
 
 namespace Mohar
 {

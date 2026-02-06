@@ -1,4 +1,5 @@
 using RimWorld;
+// Resharper disable all
 
 namespace Mohar
 {

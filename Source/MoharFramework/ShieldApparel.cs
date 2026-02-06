@@ -2,6 +2,7 @@ using UnityEngine;
 using Verse;
 using Verse.Sound;
 using RimWorld;
+// Resharper disable all
 
 namespace Mohar
 {

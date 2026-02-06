@@ -1,5 +1,5 @@
 ﻿using Verse;
-using CheckModActive;
+// Resharper disable all
 
 namespace Mohar
 {

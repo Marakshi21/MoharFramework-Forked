@@ -1,4 +1,5 @@
-﻿
+﻿// Resharper disable all
+
 namespace Mohar
 {
     public static class FuelAndPowerConditions

@@ -1,6 +1,7 @@
 ﻿using RimWorld.Planet;
 using Verse;
 using RimWorld;
+// Resharper disable all
 
 namespace Mohar
 {

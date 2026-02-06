@@ -1,8 +1,7 @@
 ﻿using Verse;
+// Resharper disable all
 
-
-namespace Mohar
-{
+namespace Mohar; 
     public static class JobInitialize
     {
         public static float TotalWeight(this GameSettings GS)
@@ -102,4 +101,3 @@ namespace Mohar
         }
 
     }
-}

@@ -1,8 +1,9 @@
-﻿using RimWorld;
+﻿using Mohar.Ubet;
+using RimWorld;
 using Verse;
-using Mohar.Ubet;
+// Resharper disable all
 
-namespace Mohar.BodyParts
+namespace Mohar
 {
     public static class BodyPartsTools
     {

@@ -1,6 +1,7 @@
 ﻿using RimWorld;
 using Verse;
 using Verse.AI;
+// Resharper disable all
 
 namespace Mohar
 {

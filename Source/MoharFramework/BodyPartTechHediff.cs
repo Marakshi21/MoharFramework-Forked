@@ -1,7 +1,8 @@
 ﻿using RimWorld;
 using Verse;
+// Resharper disable all
 
-namespace Mohar.BodyParts
+namespace Mohar
 {
     public static class BodyPartTechHediff
     {

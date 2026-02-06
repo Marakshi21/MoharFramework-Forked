@@ -3,11 +3,8 @@ using RimWorld;
 using Verse.Sound;
 using Verse;
 using Verse.AI;
+// Resharper disable all 
 
-// ConPoDra stands for Conditionnal PostDraw
-
-    //Todo
-//post expose data
 namespace Mohar
 {
     public class CompConditionalPostDraw : ThingComp

@@ -1,5 +1,6 @@
 ﻿using Verse;
 using System.Reflection;
+// Resharper disable all
 
 namespace Mohar
 {

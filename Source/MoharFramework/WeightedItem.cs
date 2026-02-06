@@ -1,7 +1,7 @@
 using Verse;
+// Resharper disable all
 
-namespace Mohar
-{
+namespace Mohar;
     public class DamageItem
     {
         public DamageDef damageDef;
@@ -12,6 +12,7 @@ namespace Mohar
         public bool HasBodyPartTag => bodyPartTag != null;
     }
 
+    /*
     public class HediffItem
     {
         public HediffDef hediffDef;
@@ -21,4 +22,4 @@ namespace Mohar
 
         public bool HasBodyPartTag => bodyPartTag != null;
     }
-}
+    */

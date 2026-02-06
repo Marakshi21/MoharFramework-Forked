@@ -1,4 +1,5 @@
 ﻿using HarmonyLib;
+// Resharper disable all
 
 namespace Mohar
 {

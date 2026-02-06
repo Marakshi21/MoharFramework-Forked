@@ -2,6 +2,7 @@
 using Verse.AI;
 using HarmonyLib;
 using System.Reflection;
+// Resharper disable all
 
 namespace Mohar
 {

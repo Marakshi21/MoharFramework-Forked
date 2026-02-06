@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using RimWorld;
 using Verse;
+// Resharper disable all
 
 namespace Mohar
 {

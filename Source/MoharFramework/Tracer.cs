@@ -1,10 +1,7 @@
 using Verse.Sound;
 using Verse;
+// Resharper disable all
 
-// ConPoDra stands for Conditionnal PostDraw
-
-    //Todo
-//WatchBuildingUtility.CalculateWatchCells
 namespace Mohar
 {
     public class Tracer : IExposable

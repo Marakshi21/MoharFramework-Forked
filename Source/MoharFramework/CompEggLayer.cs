@@ -2,21 +2,11 @@
 using Verse;
 using System.Reflection;
 using HarmonyLib;
+// Resharper disable all
 
 
 namespace Mohar
 {
-    [StaticConstructorOnStartup]
-    static class HarmonyPatchAll
-    {
-        static HarmonyPatchAll()
-        {
-            Harmony OHFP_HarmonyPatch = new Harmony("goudaQuiche.MoharOHFP");
-
-            if (CompEggLayer_Patch.TryCompEggLayerPatch(OHFP_HarmonyPatch))
-                Log.Message("MoharFW OHFP - CompEggLayer_Patch applied");
-        }
-    }
 
     [StaticConstructorOnStartup]
     public class CompEggLayer_Patch

@@ -2,8 +2,9 @@
 using Verse.AI;
 using UnityEngine;
 using RimWorld;
+// Resharper disable all
 
-namespace Mohar.AI
+namespace Mohar
 {
     public class Ai_GraveDig_JobDriver : JobDriver
     {

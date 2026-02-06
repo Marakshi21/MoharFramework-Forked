@@ -2,9 +2,8 @@
 using System.Reflection;
 using System.Reflection.Emit;
 using HarmonyLib;
-
 using RimWorld;
-
+// Resharper disable all
 
 namespace Mohar
 {

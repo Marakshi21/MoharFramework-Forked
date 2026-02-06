@@ -1,5 +1,6 @@
 using UnityEngine;
 using Verse;
+// Resharper disable all
 
 /*
  * Todo

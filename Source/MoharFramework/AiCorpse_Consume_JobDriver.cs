@@ -1,8 +1,9 @@
 ﻿using Verse;
 using Verse.AI;
 using RimWorld;
+// Resharper disable all
 
-namespace Mohar.AI
+namespace Mohar
 {
     public class AiCorpse_Consume_JobDriver : JobDriver
     {
